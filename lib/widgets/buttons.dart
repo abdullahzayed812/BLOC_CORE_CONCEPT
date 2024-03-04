@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_bloc_core_concepts/bloc/counter_bloc.dart';
 import 'package:flutter_bloc_core_concepts/bloc/counter_event.dart';
-import 'package:flutter_bloc_core_concepts/bloc/counter_state.dart';
 
 class FloatingActionButtons extends StatelessWidget {
   const FloatingActionButtons({super.key});
